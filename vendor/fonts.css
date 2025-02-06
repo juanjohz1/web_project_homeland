@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    src: url("./fonts/Inter-Regular.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: 'Inter Italic Variable';
+    font-style: normal;
+    font-weight: 400;
+    src: url("./fonts/Inter-Italic-Variable.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: 'Inter Variable';
+    font-style: normal;
+    font-weight: 400;
+    src: url("./fonts/Inter-Variable.woff2") format("woff2");
+}

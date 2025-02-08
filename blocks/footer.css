@@ -1,16 +1,11 @@
-.footer {
-    width: 100%;
-    position: relative;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: 3rem;
-    }
-    
-    .footer__copyright {
-        max-width: 194px;
+.footer { 
+
+}
+
+.footer__copyright {
+  max-width: 194px;
   font-size: 14px;
   text-align: center;
   margin: 0 auto 0;
   padding: 80px 0 24px;
-  }
+}

@@ -17,3 +17,5 @@ El proyecto consiste en los siguientes archivos fundamentales:
 - `index.html`: Documento HTML principal que contiene la estructura y contenido de la página.
 - `index.css`: Hoja de estilos utilizada para darle formato y diseño a la página.
 - `/images`: Carpeta que contiene los recursos de imágenes utilizados en el proyecto.
+##link a pages
+https://github.com/juanjohz1/web_project_homeland.git
